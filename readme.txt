@@ -1,9 +1,9 @@
 === Link Widgets ===
-Contributors: Denis-de-Bernardy, Semiologic
+Contributors: Denis-de-Bernardy
 Donate link: http://buy.semiologic.com/drink
 Tags: bookmark, bookmarks, link, links, widget, widgets, semiologic
 Requires at least: 2.5
-Tested up to: 2.7
+Tested up to: 2.7.2
 Stable tag: trunk
 
 Replaces WordPress' default, single link widget with multiple, advanced links widgets.
@@ -14,6 +14,8 @@ Replaces WordPress' default, single link widget with multiple, advanced links wi
 The link widgets plugin for WordPress replaces its default, single link widget with multiple link widgets.
 
 This lets you insert separate instances of link widgets with various settings for different link categories.
+
+This plugin is **NOT** needed in WP 2.8 or later.
 
 
 == Installation ==
